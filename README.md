@@ -12,11 +12,13 @@
 ---
 # 👩🏻‍💻 About Me
 
-🎓 Bioinformatics Graduate with a strong passion for Data Analytics and Business Intelligence.
+🎓 Data Analyst with a background in Bioinformatics and Business Intelligence.
 
-📊 Skilled in **Power BI, Excel, SQL, Python, DAX, and Power Query**, with hands-on experience building interactive dashboards and turning raw data into actionable business insights.
+📊 Experienced in transforming raw data into meaningful insights using **Power BI, SQL, Excel, Python, DAX, and Power Query**.
 
-🚀 Currently expanding my portfolio through real-world analytics projects and open to entry-level opportunities.
+🚀 Passionate about building interactive dashboards, analyzing business performance, and creating data-driven solutions that support better decision-making.
+
+💡 Continuously developing my analytics skills through real-world projects and practical problem solving.
 
 ---
 
