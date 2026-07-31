@@ -224,18 +224,6 @@ yasmen = {
 
 ---
 
-# 💬 Favorite Quote
-
-<div align="center">
-
-### *"Turning raw data into meaningful business insights."*
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Building+Power+BI+Dashboards...;Learning+Something+New+Every+Day...;Turning+Data+Into+Business+Value+📊"/>
-
-</div>
-
----
-
 # ⭐ Thanks for Visiting
 
 <p align="center">
