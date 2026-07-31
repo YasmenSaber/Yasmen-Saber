@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Yasmen+Saber;Data+Analyst+%7C+Power+BI+Developer;Transforming+Data+Into+Business+Insights"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasmen+Saber;Data+Analyst+%7C+Power+BI+Developer;Turning+Data+Into+Business+Insights" />
 </p>
 
-<h2 align="center">📊 Data Analyst | Power BI Developer | Business Intelligence Enthusiast</h2>
+<h3 align="center">Data Analyst • Power BI Developer • Business Intelligence Enthusiast</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YasmenSaber&label=Profile+Views&color=00C853&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YasmenSaber?style=for-the-badge&color=00C853&label=Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=YasmenSaber&label=Profile+Views&color=00C853&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/YasmenSaber?style=for-the-badge&color=00C853&label=Followers"/>
 </p>
 
 ---
@@ -15,15 +15,18 @@
 
 ```python
 yasmen = {
-    "role"               : "Data Analyst",
-    "education"          : [
+    "name": "Yasmen Saber",
+    "role": "Data Analyst",
+    "location": "Egypt 🇪🇬",
+
+    "education": [
         "Faculty of Science – Bioinformatics Graduate",
-        "NTI Data Analysis Graduate"
+        "NTI – Data Analysis Graduate"
     ],
-    "experience"         : "Freelance Data Analyst",
-    "location"           : "Egypt 🇪🇬",
-    "specialization"     : "Business Intelligence & Data Analytics",
-    "skills"             : [
+
+    "specialization": "Business Intelligence & Data Analytics",
+
+    "skills": [
         "Power BI",
         "Excel",
         "SQL",
@@ -31,14 +34,25 @@ yasmen = {
         "DAX",
         "Power Query"
     ],
-    "currently_learning" : "Data Analysis Diploma – Mazen Analytics",
-    "available_for"      : [
+
+    "currently_learning": "Advanced Data Analysis",
+
+    "open_to": [
         "Internships",
         "Entry-Level Roles",
         "Freelance Projects"
     ]
 }
 ```
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Tools | Description |
+|----------|-------|-------------|
+| 📞 **Salla Call Center Analysis** | **Power BI • DAX • Power Query** | Interactive 5-page dashboard covering Executive Overview, Agent Performance, Call Performance, SLA & Quality, and Business Insights. <br><br>🔗 https://github.com/YasmenSaber/salla-call-center-analysis-powerbi |
+| 👟 **Adidas Sales Dashboard** | **Power BI • DAX • Power Query** | Interactive dashboard analyzing sales performance, profitability, products, regions, and sales channels. <br><br>🔗 https://github.com/YasmenSaber/Adidas-Sales-Dashboard |
 
 ---
 
@@ -58,41 +72,30 @@ yasmen = {
 
 <img src="https://img.shields.io/badge/Power_Query-0176D3?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
 
 </p>
 
 ---
-
 # 🎓 Certifications
 
 | Certification | Status |
-|---------------|:------:|
+|-------------------------------|:------:|
 | 🎓 Faculty of Science – Bioinformatics Graduate | ✅ |
-| 🎓 National Telecommunication Institute (NTI) – Data Analysis Graduate | ✅ |
-| 🎓 Data Analysis Diploma – Mazen Analytics | 🔄 In Progress |
-
----
-
-# 🚀 Featured Projects
-
-| Project | Tools | Description | Repository |
-|---------|-------|-------------|------------|
-| 📞 **Salla Call Center Analysis** | **Power BI · Excel · SQL · DAX · Power Query** | Interactive 5-page dashboard analyzing Executive Overview, Agent Performance, Call Performance, SLA & Quality, and Business Insights. | [View Project](https://github.com/YasmenSaber/salla-call-center-analysis-powerbi) |
-| 👟 **Adidas Sales Dashboard** | **Power BI · Excel · SQL · DAX · Power Query** | Interactive dashboard analyzing sales, profitability, product performance, regional analysis, and sales channels. | [View Project](https://github.com/YasmenSaber/Adidas-Sales-Dashboard) |
+| 🎓 NTI – Data Analysis Graduate | ✅ |
+| 📚 Data Analysis Diploma – Mazen Analytics | 🔄 In Progress |
 
 ---
 
 # 📊 GitHub Statistics
+
 <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00C853&title_color=00C853"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YasmenSaber&theme=github-dark&hide_border=true&ring=00C853&fire=00C853"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=YasmenSaber&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -128,47 +131,73 @@ yasmen = {
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Currently Learning
 
-- 📊 Building interactive Power BI dashboards
+- 📊 Advanced Power BI Dashboards
+- 📈 Business Intelligence & Reporting
+- 🧹 Data Cleaning with Power Query
+- 🗄️ SQL for Data Analytics
+- 🐍 Python for Data Analysis
+- 📉 KPI Design & Dashboard Optimization
 
-- 📈 Solving real-world business problems through data
+---
+# 📂 What You'll Find in My Repositories
 
-- 📑 Creating professional business reports
+### 📊 Power BI Dashboards
+- Executive Dashboards
+- KPI Tracking
+- Interactive Reports
+- Business Insights
+- Performance Analysis
 
-- 🧹 Data Cleaning & Transformation using Power Query
+### 📈 Data Analysis
+- Microsoft Excel
+- SQL Queries
+- Python Analysis
+- Data Cleaning
+- Data Transformation
 
-- 🗄️ Writing efficient SQL queries
+### 📉 Business Intelligence
+- Data Modeling
+- Power Query
+- DAX Measures
+- KPI Design
+- Dashboard Development
 
-- 📉 Designing KPI-driven dashboards
-
-- 🐍 Applying Python for data analysis
-
-- 📁 Expanding my analytics portfolio with real-world projects
+### 📁 Project Documentation
+- Business Recommendations
+- Executive Summaries
+- Interactive Visualizations
+- Clean & Organized Reports
 
 ---
 
-# 💡 Areas of Expertise
+# 💼 Services
 
-✔️ Business Intelligence
+✔️ Power BI Dashboard Development
 
-✔️ Dashboard Development
+✔️ Interactive Business Reports
 
-✔️ Data Visualization
+✔️ Data Cleaning & Transformation
 
-✔️ KPI Design
+✔️ KPI & Executive Dashboard Design
 
-✔️ Data Cleaning
+✔️ Excel Data Analysis
 
-✔️ Data Modeling
+✔️ SQL Data Analysis
 
-✔️ DAX Calculations
+✔️ Business Insights & Reporting
 
-✔️ SQL Queries
+---
 
-✔️ Excel Reporting
+# 🤝 Open To
 
-✔️ Business Insights
+- 💼 Entry-Level Data Analyst Roles
+- 📊 Business Intelligence Opportunities
+- 🌍 Remote Opportunities
+- 🏢 On-site Opportunities
+- 🚀 Freelance Projects
+- 🤝 Collaboration on Data Analytics Projects
 
 ---
 # 📬 Connect With Me
@@ -180,7 +209,7 @@ yasmen = {
 </a>
 
 <a href="mailto:yasmensaber04@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YasmenSaber">
@@ -188,104 +217,41 @@ yasmen = {
 </a>
 
 <a href="https://github.com/YasmenSaber?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View_All-00C853?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yasmen-saber/details/projects/">
-<img src="https://img.shields.io/badge/LinkedIn-Projects-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repositories-View%20All-00C853?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🚀 What You'll Find Here
+# 💬 Favorite Quote
 
-### 📊 Power BI Dashboards
-- Executive dashboards
-- KPI tracking
-- Interactive reports
-- Business insights
-
-### 📈 Data Analysis
-- Excel analysis
-- SQL queries
-- Python analytics
-- Data cleaning
-
-### 📂 End-to-End Projects
-- Business case studies
-- Interactive dashboards
-- Documentation
-- Business recommendations
-
-### 💼 Business Intelligence
-- Data modeling
-- Power Query
-- DAX measures
-- Performance optimization
-
----
-
-# 🤝 Open To
-
-- 💼 Entry-Level Data Analyst Roles
-- 📊 Business Intelligence Positions
-- 🌍 Remote Opportunities
-- 🏢 On-site Opportunities
-- 🚀 Freelance Projects
-- 🤝 Power BI Collaborations
-- 📈 Data Analytics Projects
-
----
 <div align="center">
-
-# 💬 Quote
 
 ### *"Turning raw data into meaningful business insights."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=850&lines=Thanks+for+visiting+my+GitHub!;Building+Power+BI+Solutions...;Creating+Interactive+Dashboards...;Turning+Data+Into+Business+Value...;Always+Learning+%7C+Always+Growing+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Building+Power+BI+Dashboards...;Learning+Something+New+Every+Day...;Turning+Data+Into+Business+Value+📊"/>
 
 </div>
 
 ---
 
-# 📊 By The Numbers
+# ⭐ Thanks for Visiting
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Power_BI-Dashboards-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Projects-2-1B5E20?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL-Queries-4479A1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DAX-Measures-F2C811?style=for-the-badge&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Power_Query-ETL-0176D3?style=for-the-badge"/>
-
-</p>
-
----
-
-# ⭐ Thank You for Visiting!
-
-<p align="center">
-
-If you like my work, don't forget to ⭐ my repositories and connect with me on LinkedIn.
+If you found my projects helpful, feel free to ⭐ my repositories and connect with me on LinkedIn.
 
 </p>
 
 <p align="center">
 
 <a href="https://github.com/YasmenSaber">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yasmen-saber">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -294,6 +260,6 @@ If you like my work, don't forget to ⭐ my repositories and connect with me on 
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:1B5E20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:1B5E20&height=170&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
 </p>
