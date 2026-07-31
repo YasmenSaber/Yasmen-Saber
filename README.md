@@ -54,12 +54,13 @@ yasmen = {
 
 ## 🎓 Certifications
 
-| Certification | Status |
-|---|:-:|
-| 🎓 Faculty of Science – Bioinformatics Graduate | ✅ |
-| 🎓 National Telecommunication Institute (NTI) – Data Analysis Graduate | ✅ |
-| 🎓 Data Analysis Diploma – Mazen Analytics | 🔄 In Progress |
-| 💼 Freelance Data Analyst | ✅ |
+<table align="center" width="810">
+<tr><th>Certification</th><th align="center">Status</th></tr>
+<tr><td>🎓 Faculty of Science – Bioinformatics Graduate</td><td align="center">✅</td></tr>
+<tr><td>🎓 National Telecommunication Institute (NTI) – Data Analysis Graduate</td><td align="center">✅</td></tr>
+<tr><td>🎓 Data Analysis Diploma – Mazen Analytics</td><td align="center">🔄 In Progress</td></tr>
+<tr><td>💼 Freelance Data Analyst</td><td align="center">✅</td></tr>
+</table>
 
 ---
 
@@ -78,16 +79,6 @@ yasmen = {
 <p align="center">
 <img width="810" src="https://github-readme-activity-graph.vercel.app/graph?username=YasmenSaber&theme=github-dark&hide_border=true&area=true&color=00C853&line=00C853&point=FFFFFF"/>
 </p>
-
----
-
-## 🎯 Current Goals
-
-- 📊 Build professional Power BI dashboards
-- 🧠 Strengthen SQL & Python skills
-- 📈 Master Business Intelligence solutions
-- 💼 Grow as a Freelance Data Analyst
-- 🚀 Start a full-time career in Data Analytics
 
 ---
 
