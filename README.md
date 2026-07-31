@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Yasmen Saber</h1>
 
 <h3 align="center">
-Data Analyst | Business Intelligence Enthusiast | Power BI Developer
+Data Analyst • Business Intelligence Enthusiast • Power BI Developer
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Computer+Informatics+Graduate;NTI+Data+Analysis+Graduate;Freelance+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Turning+Data+Into+Business+Insights+📊"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=650&lines=Computer+Informatics+Graduate;NTI+Data+Analysis+Graduate;Freelance+Data+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Always+Learning+Something+New+🚀"/>
 
 </p>
 
 <p align="center">
 
 <a href="https://github.com/YasmenSaber">
-<img src="https://komarev.com/ghpvc/?username=YasmenSaber&label=Profile%20Views&color=00C853&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=YasmenSaber&label=Profile+Views&color=00C853&style=flat-square"/>
 </a>
 
 <a href="https://github.com/YasmenSaber?tab=followers">
@@ -24,81 +24,36 @@ Data Analyst | Business Intelligence Enthusiast | Power BI Developer
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=170&color=0:00C853,50:0F2027,100:000000&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=36"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C853,100:0F2027&height=130&section=header&text=Turning%20Data%20Into%20Insights&fontSize=28&fontColor=ffffff"/>
 
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 👩🏻‍💻 About Me
 
-```yaml
-yasmen:
+<img align="right" width="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGk1bTZmMjM2MnQyMjI2dXVxcnY4c2Y0eDVwdG8wY2dtZTRqMHFxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif"/>
 
-  role: Data Analyst
+- 🎓 **Computer Informatics Graduate**
+- 🎓 **NTI Data Analysis Graduate**
+- 💼 **Freelance Data Analyst**
+- 📚 Currently studying **Data Analysis Diploma – Mazen Analytics**
+- 📊 Passionate about **Business Intelligence & Data Visualization**
+- 🚀 Building interactive dashboards with **Power BI**
+- 🌱 Currently improving **SQL, Statistics & Advanced Power BI**
+- 💬 Ask me about **Power BI • SQL • Excel • Python**
 
-  location: Egypt 🇪🇬
-
-  education:
-
-    - Computer Informatics Graduate
-
-    - NTI Data Analysis Graduate
-
-  experience:
-
-    - Freelance Data Analyst
-
-  currently:
-
-    - Data Analysis Diploma (Mazen Analytics) - In Progress
-
-  skills:
-
-    - Power BI
-
-    - SQL
-
-    - Excel
-
-    - Python
-
-    - DAX
-
-    - Power Query
-
-    - Data Cleaning
-
-    - Data Visualization
-
-    - Dashboard Design
-
-  focus:
-
-    - Business Intelligence
-
-    - Business Analytics
-
-    - Dashboard Development
-
-  available:
-
-    Open to Data Analyst Internships & Entry-Level Opportunities
-```
-
----
-
-# 🎓 Certifications
-
-✔ NTI — Data Analysis Graduate
-
-✔ Freelance Data Analyst
-
-✔ Data Analysis Diploma — Mazen Analytics *(In Progress)*
+<br clear="right"/>
 
 ---
 
 # 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
 
 <p align="center">
 
@@ -114,22 +69,24 @@ yasmen:
 
 <img src="https://img.shields.io/badge/Power_Query-0176D3?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </p>
 
 ---
-# 📊 GitHub Activity
+
+# 🎓 Certifications
+
+- ✅ NTI — Data Analysis Graduate
+- 📘 Data Analysis Diploma — Mazen Analytics *(In Progress)*
+- 💼 Freelance Data Analyst
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmenSaber&theme=github-dark&hide_border=true&area=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmenSaber&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -139,34 +96,56 @@ yasmen:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YasmenSaber&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YasmenSaber&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmenSaber&theme=github-dark&hide_border=true&area=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YasmenSaber/YasmenSaber/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YasmenSaber&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </p>
 
-> **ملاحظة:** ده هيشتغل بعد ما تعملي GitHub Action للـ Snake.
+---
+
+# ⚡ Fun Facts
+
+- 📊 I enjoy transforming raw data into meaningful insights.
+- 🎯 I love creating interactive Power BI dashboards.
+- 💡 Continuous learning is part of my daily routine.
+- 🚀 My goal is to become a Business Intelligence Specialist.
 
 ---
 
+# 💻 Current Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Statistics-Learning-00C853?style=for-the-badge"/>
+
+</p>
+
+---
 # 📫 Connect With Me
 
 <p align="center">
@@ -175,7 +154,7 @@ yasmen:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -187,21 +166,33 @@ yasmen:
 
 ---
 
-## 💡 Quote
+# 💬 Quote
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## ☕ Support
+# 📈 Profile Summary
 
 <p align="center">
 
-If you like my work, don't forget to ⭐ my repositories.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasmenSaber&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🌍 Let's Connect
+
+<p align="center">
+
+I'm always interested in collaborating on Data Analytics, Business Intelligence, and Power BI projects.
+
+Feel free to connect with me or reach out for collaboration opportunities.
 
 </p>
 
@@ -209,12 +200,12 @@ If you like my work, don't forget to ⭐ my repositories.
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00C853,50:0F2027,100:000000&text=Thanks%20For%20Visiting!&fontColor=ffffff&fontSize=34&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Turning+Raw+Data+Into+Meaningful+Insights.;Let's+Build+Something+Amazing!+🚀"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Meaningful+Business+Insights.;Always+Learning+🚀;Let's+Build+Something+Amazing!+💚"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C853,100:0F2027"/>
 
 </p>
