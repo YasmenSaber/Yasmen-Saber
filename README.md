@@ -100,26 +100,4 @@ yasmen = {
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer&text=Let's%20turn%20data%20into%20decisions!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 </p>
-# 🌍 Let's Connect
 
-<p align="center">
-
-I'm always interested in collaborating on Data Analytics, Business Intelligence, and Power BI projects.
-
-Feel free to connect with me or reach out for collaboration opportunities.
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Turning+Raw+Data+Into+Meaningful+Insights.;Let's+Build+Something+Amazing!+🚀"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C853,100:0F2027"/>
-
-</p>
