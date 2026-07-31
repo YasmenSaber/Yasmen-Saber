@@ -66,8 +66,9 @@ yasmen = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00C853&title_color=00C853"/>
-<img width="400" src="https://streak-stats.demolab.com?user=YasmenSaber&theme=github-dark&hide_border=true&ring=00C853&fire=00C853"/>
+<img width="810" src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00C853&title_color=00C853"/>
+<br>
+<img width="810" src="https://streak-stats.demolab.com?user=YasmenSaber&theme=github-dark&hide_border=true&ring=00C853&fire=00C853"/>
 </p>
 
 ---
@@ -92,10 +93,12 @@ yasmen = {
 
 ## 📬 Connect With Me
 
-<a href="https://www.linkedin.com/in/yasmen-saber"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yasmensaber04@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YasmenSaber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PHONE-01064434367-1B5E20?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/yasmen-saber"><img height="42" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yasmensaber04@gmail.com"><img height="42" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/YasmenSaber"><img height="42" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img height="42" src="https://img.shields.io/badge/PHONE-01064434367-1B5E20?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</p>
 
 ---
 
@@ -107,4 +110,6 @@ yasmen = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:1B5E20&height=150&section=footer&text=Let's%20turn%20data%20into%20decisions!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:1B5E20&height=150&section=footer&text=Let's%20turn%20data%20into%20decisions!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+</p>
