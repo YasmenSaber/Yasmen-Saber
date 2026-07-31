@@ -1,8 +1,8 @@
 <h1 align="center">Turning Data into Insights ✅</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=8A2BE2&label=Followers"/>
+<img src="https://komarev.com/ghpvc/?username=YasmenSaber&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YasmenSaber?style=for-the-badge&color=8A2BE2&label=Followers"/>
 </p>
 
 ---
@@ -50,8 +50,8 @@ yasmen = {
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=8A2BE2&title_color=8A2BE2"/>
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=github-dark&hide_border=true&ring=8A2BE2&fire=8A2BE2"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=8A2BE2&title_color=8A2BE2"/>
+<img height="170" src="https://streak-stats.demolab.com?user=YasmenSaber&theme=github-dark&hide_border=true&ring=8A2BE2&fire=8A2BE2"/>
 </p>
 
 ---
@@ -74,4 +74,6 @@ yasmen = {
 
 ---
 
-<h3 align="center">Let's turn data into decisions!</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer&text=Let's%20turn%20data%20into%20decisions!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+</p>
