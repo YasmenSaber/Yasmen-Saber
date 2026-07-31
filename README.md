@@ -1,247 +1,109 @@
-<h1 align="center">Hi 👋, I'm Yasmen Saber</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst | Business Intelligence Enthusiast
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00C853&center=true&vCenter=true&width=650&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Business+Intelligence+Enthusiast;Turning+Data+Into+Insights" />
 
-<p align="center">
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00C853&center=true&vCenter=true&width=650&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Business+Intelligence+Enthusiast;Turning+Data+Into+Insights"/>
+<br>
 
-</p>
+<img src="https://your-photo-url-here.jpg" align="right" width="150"/>
 
-<p align="center">
+**Yasmen Saber**
+`yasmensaber` (غيّري ده لاسم اليوزر بتاعك على GitHub)
 
-<a href="https://github.com/YasmenSaber">
-<img src="https://komarev.com/ghpvc/?username=YasmenSaber&label=Profile+Views&color=00C853&style=flat-square"/>
-</a>
+Data Analyst | Power BI · SQL · Python · Excel
+📍 Egypt 🇪🇬
 
-<a href="https://github.com/YasmenSaber?tab=followers">
-<img src="https://img.shields.io/github/followers/YasmenSaber?style=flat-square&color=00C853&label=Followers"/>
-</a>
+[![Followers](https://img.shields.io/github/followers/YOUR-USERNAME?style=flat-square&color=00C853&label=Followers)](https://github.com/YOUR-USERNAME?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=00C853&style=flat-square)](https://github.com/YOUR-USERNAME)
 
-</p>
+🔗 [LinkedIn](https://www.linkedin.com/in/yasmen-saber) · ✉️ [yasmensaber04@gmail.com](mailto:yasmensaber04@gmail.com)
 
 ---
 
-# 👩🏻‍💻 About Me
+## 👩🏻‍💻 About Me
 
 ```python
 yasmen = {
-
-    "role" : "Data Analyst",
-
-    "education" : [
-
-        "Faculty of Science - Bioinformatics Department",
-
-        "NTI Data Analysis Graduate"
-
+    "role": "Data Analyst",
+    "location": "Egypt 🇪🇬",
+    "education": [
+        "Faculty of Science – Bioinformatics Department",
+        "NTI – Data Analysis Graduate"
     ],
-
-    "location" : "Egypt 🇪🇬",
-
-    "experience" : "Freelance Data Analyst",
-
-    "skills" : [
-
-        "Power BI",
-
-        "SQL",
-
-        "Python",
-
-        "Excel",
-
-        "DAX",
-
-        "Power Query"
-
-    ],
-
-    "focus" : "Business Intelligence & Data Storytelling",
-
-    "learning" : "Data Analysis Diploma - Mazen Analytics",
-
-    "available" : "Open to internships, entry-level roles & freelance projects ✅"
-
+    "learning": "Data Analysis Diploma – Mazen Analytics (In Progress)",
+    "experience": "Freelance Data Analyst",
+    "focus": "Business Intelligence & Data Storytelling",
+    "available": "Open to internships, entry-level roles & freelance projects ✅"
 }
 ```
 
 ---
 
-# 🎓 Certifications
-🎓 Faculty of Science – Bioinformatics Graduate
-🎓 National Telecommunication Institute (NTI) – Data Analysis Graduate
-🎓 Data Analysis Diploma – Mazen Analytics (In Progress)
-💼 Freelance Data Analyst
----
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-FFC107?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Query-0176D3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+</p>
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
+---
+
+## 🚀 Featured Projects
+
+| # | Project | Tools | Description |
+|---|---------|-------|--------------|
+| 📊 | *(هتضيفيه)* | | |
+| 📈 | *(هتضيفيه)* | | |
+| 🧹 | *(هتضيفيه)* | | |
+
+> هنا هحطّي جدول المشاريع، كل مشروع سطر، مع لينك للريبو.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DAX-FFC107?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power_Query-0176D3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
+<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 📚 Currently Learning
+## 🎓 Certifications
 
-<p align="center">
+- 🎓 Faculty of Science – Bioinformatics Graduate
+- 🎓 National Telecommunication Institute (NTI) – Data Analysis Graduate
+- 🎓 Data Analysis Diploma – Mazen Analytics *(In Progress)*
+- 💼 Freelance Data Analyst
 
-<img src="https://img.shields.io/badge/Advanced_Power_BI-F2C811?style=for-the-badge"/>
+---
 
-<img src="https://img.shields.io/badge/Advanced_SQL-4479A1?style=for-the-badge"/>
+## 📫 Contact Me
 
-<img src="https://img.shields.io/badge/Python_for_Data_Analysis-3776AB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Statistics-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Business_Intelligence-181717?style=for-the-badge"/>
-
+<p>
+<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yasmen-saber"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yasmensaber04@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-# 💼 What I Do
+<div align="center">
 
-✔ Build Interactive Power BI Dashboards
+**Let's turn data into decisions! 🚀**
 
-✔ Clean & Transform Data using Power Query
+⭐ لو عجبك شغلي، متنسيش تعمل Star على الريبوهات.
 
-✔ Write SQL Queries for Data Analysis
-
-✔ Analyze Business Performance
-
-✔ Create Executive Reports
-
-✔ Transform Raw Data into Actionable Insights
-
----
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YasmenSaber&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmenSaber&theme=github-dark&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-</p>
-
----
-
-## 🚀 Core Competencies
-
-✔ Data Cleaning
-
-✔ Data Visualization
-
-✔ Dashboard Development
-
-✔ Business Intelligence
-
-✔ SQL Analysis
-
-✔ Reporting & Insights
-
----
-
-# 🌱 Interests
-
-- 📈 Business Intelligence
-- 📊 Data Visualization
-- 🧠 Data Analytics
-- 💻 Problem Solving
-- 📉 Business Performance Analysis
-
----
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YasmenSaber">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="www.linkedin.com/in/yasmen-saber">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yasmensaber04@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🤝 Let's Collaborate
-
-I'm always interested in collaborating on:
-
-📊 Power BI Dashboards
-
-📈 Business Intelligence Projects
-
-🧹 Data Cleaning & Transformation
-
-📉 Data Visualization
-
-💡 Data Analysis Projects
-
----
-
-# 💚 Thanks For Visiting
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00C853&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Turning+Raw+Data+Into+Meaningful+Insights.;Always+Learning.+Always+Growing.;Let's+Build+Something+Amazing!+🚀"/>
-
-</p>
-
-<p align="center">
-
-⭐ If you like my work, don't forget to leave a star on my repositories.
-
-</p>
+</div>
