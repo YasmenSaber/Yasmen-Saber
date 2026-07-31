@@ -1,8 +1,31 @@
-<h1 align="center">Turning Data into Insights ✅</h1>
+<h1 align="center">Hi 👋, I'm Yasmen Saber</h1>
+
+<h3 align="center">
+Data Analyst • Business Intelligence Enthusiast • Power BI Developer
+</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YasmenSaber&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YasmenSaber?style=for-the-badge&color=8A2BE2&label=Followers"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=650&lines=Computer+Informatics+Graduate;NTI+Data+Analysis+Graduate;Freelance+Data+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Always+Learning+Something+New+🚀"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/YasmenSaber">
+<img src="https://komarev.com/ghpvc/?username=YasmenSaber&label=Profile+Views&color=00C853&style=flat-square"/>
+</a>
+
+<a href="https://github.com/YasmenSaber?tab=followers">
+<img src="https://img.shields.io/github/followers/YasmenSaber?label=Followers&style=flat-square&color=00C853"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C853,100:0F2027&height=130&section=header&text=Turning%20Data%20Into%20Insights&fontSize=28&fontColor=ffffff"/>
+
 </p>
 
 ---
@@ -76,4 +99,27 @@ yasmen = {
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer&text=Let's%20turn%20data%20into%20decisions!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+</p>
+# 🌍 Let's Connect
+
+<p align="center">
+
+I'm always interested in collaborating on Data Analytics, Business Intelligence, and Power BI projects.
+
+Feel free to connect with me or reach out for collaboration opportunities.
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Turning+Raw+Data+Into+Meaningful+Insights.;Let's+Build+Something+Amazing!+🚀"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C853,100:0F2027"/>
+
 </p>
