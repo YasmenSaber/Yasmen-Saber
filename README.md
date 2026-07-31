@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/github/followers/YasmenSaber?style=for-the-badge&color=00C853&label=Followers"/>
 </p>
 
-<br>
+---
 
 ## 👩🏻‍💻 About Me
 
@@ -31,29 +31,24 @@ yasmen = {
 }
 ```
 
-<br>
+---
 
 ## 🛠 Tech Stack
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
-</p>
 
-<p align="center">
+<br><br>
+
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<br>
 <img src="https://img.shields.io/badge/DAX-1B5E20?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power_Query-0176D3?style=for-the-badge"/>
-</p>
 
-<br>
+---
 
 ## 🎓 Certifications
-
-<div align="center">
 
 | Certification | Status |
 |---|:-:|
@@ -62,53 +57,39 @@ yasmen = {
 | 🎓 Data Analysis Diploma – Mazen Analytics | 🔄 In Progress |
 | 💼 Freelance Data Analyst | ✅ |
 
-</div>
-
-<br>
+---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00C853&title_color=00C853"/>
 <img height="170" src="https://streak-stats.demolab.com?user=YasmenSaber&theme=github-dark&hide_border=true&ring=00C853&fire=00C853"/>
-</p>
 
-<br>
+---
 
 ## 📈 Contribution Graph
 
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmenSaber&theme=github-dark&hide_border=true&area=true&color=00C853&line=00C853&point=FFFFFF"/>
-</p>
 
-<br>
+---
 
 ## 🎯 Current Goals
 
-<div align="center">
+- 📊 Build professional Power BI dashboards
+- 🧠 Strengthen SQL & Python skills
+- 📈 Master Business Intelligence solutions
+- 💼 Grow as a Freelance Data Analyst
+- 🚀 Start a full-time career in Data Analytics
 
-| Goal |
-|---|
-| 📊 Build professional Power BI dashboards |
-| 🧠 Strengthen SQL & Python skills |
-| 📈 Master Business Intelligence solutions |
-| 💼 Grow as a Freelance Data Analyst |
-| 🚀 Start a full-time career in Data Analytics |
-
-</div>
-
-<br>
+---
 
 ## 📬 Connect With Me
 
-<p align="center">
 <a href="https://www.linkedin.com/in/yasmen-saber"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yasmensaber04@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/YasmenSaber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PHONE-01064434367-1B5E20?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</p>
 
-<br>
+---
 
 <div align="center">
 
@@ -118,6 +99,4 @@ yasmen = {
 
 </div>
 
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:1B5E20&height=150&section=footer&text=Let's%20turn%20data%20into%20decisions!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
-</p>
