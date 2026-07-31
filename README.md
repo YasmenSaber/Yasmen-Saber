@@ -1,8 +1,4 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E8F8F0,100:D4F1E0&height=8"/>
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasmen+Saber" />
 </p>
 
@@ -21,9 +17,6 @@
 
 ## 👩🏻‍💻 About Me
 
-<table align="center" width="810" bgcolor="#F2FBF6">
-<tr><td>
-
 ```python
 yasmen = {
     "role"               : "Data Analyst",
@@ -39,9 +32,6 @@ yasmen = {
     "available_for"      : ["Internships", "Entry-Level Roles", "Freelance Projects"]
 }
 ```
-
-</td></tr>
-</table>
 
 ---
 
@@ -64,13 +54,12 @@ yasmen = {
 
 ## 🎓 Certifications
 
-<table align="center" width="810">
-<tr bgcolor="#00C853"><th><font color="#ffffff">Certification</font></th><th align="center"><font color="#ffffff">Status</font></th></tr>
-<tr bgcolor="#F2FBF6"><td>🎓 Faculty of Science – Bioinformatics Graduate</td><td align="center">✅</td></tr>
-<tr bgcolor="#FFFFFF"><td>🎓 National Telecommunication Institute (NTI) – Data Analysis Graduate</td><td align="center">✅</td></tr>
-<tr bgcolor="#F2FBF6"><td>🎓 Data Analysis Diploma – Mazen Analytics</td><td align="center">🔄 In Progress</td></tr>
-<tr bgcolor="#FFFFFF"><td>💼 Freelance Data Analyst</td><td align="center">✅</td></tr>
-</table>
+| Certification | Status |
+|---|:-:|
+| 🎓 Faculty of Science – Bioinformatics Graduate | ✅ |
+| 🎓 National Telecommunication Institute (NTI) – Data Analysis Graduate | ✅ |
+| 🎓 Data Analysis Diploma – Mazen Analytics | 🔄 In Progress |
+| 💼 Freelance Data Analyst | ✅ |
 
 ---
 
@@ -113,8 +102,4 @@ yasmen = {
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:1B5E20&height=150&section=footer&text=Let's%20turn%20data%20into%20decisions!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4F1E0,100:E8F8F0&height=8"/>
 </p>
