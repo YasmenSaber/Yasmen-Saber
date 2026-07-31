@@ -1,11 +1,19 @@
-<h1 align="center">Turning Data into Insights 📊</h1>
+<h1 align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Yasmen%20Saber&fontSize=48&fontColor=ffffff&color=0:8A2BE2,100:4B0082&animation=fadeIn"/>
+
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Yasmen+Saber;Data+Analyst;Power+BI+Developer;SQL+%7C+Excel+%7C+Python;Business+Intelligence+Enthusiast"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Excel+%7C+Python;Business+Intelligence+Enthusiast;Turning+Data+Into+Insights"/>
+
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YasmenSaber&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=YasmenSaber&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+
 </p>
 
 ---
@@ -14,29 +22,57 @@
 
 ```yaml
 yasmen:
+
   role: Data Analyst
+
   location: Egypt 🇪🇬
-  education: Computer Informatics Graduate
+
+  education:
+
+    - Computer Informatics Graduate
+
+    - NTI Data Analysis Graduate
+
+  currently:
+
+    - Data Analysis Diploma (Mazen)
 
   skills:
+
     - Power BI
+
     - SQL
+
     - Excel
+
     - Python
+
     - DAX
+
     - Power Query
 
-  focus:
-    - Business Intelligence
-    - Dashboard Development
+    - Data Cleaning
+
     - Data Visualization
 
+  focus:
+
+    - Business Intelligence
+
+    - Dashboard Development
+
+    - Business Analytics
+
   currently_learning:
+
     - Advanced Power BI
+
     - Advanced SQL
+
     - Statistics
 
   available:
+
     Open to Data Analyst Internships & Entry-Level Opportunities
 ```
 
@@ -70,20 +106,6 @@ yasmen:
 
 ---
 
-# 🚀 Featured Projects
-
-📊 Egypt Population Dashboard (Power BI)
-
-🏥 Egypt Healthcare Dashboard
-
-📈 Adidas Sales Analysis
-
-🛒 Furniture Sales Dashboard
-
-🧠 Alzheimer's Disease Analysis
-
----
-
 # 📊 GitHub Activity
 
 <p align="center">
@@ -104,30 +126,26 @@ yasmen:
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmenSaber&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/YasmenSaber">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="www.linkedin.com/in/yasmen-saber">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:yasmensaber04@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
@@ -136,8 +154,12 @@ yasmen:
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Turning+Raw+Data+Into+Meaningful+Business+Insights.;Let's+Build+Something+Amazing!+🚀"/>
 
-<i>"Turning raw data into meaningful business insights."</i>
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,100:4B0082"/>
 
 </p>
