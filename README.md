@@ -48,18 +48,6 @@ Transforming raw data into actionable insights through interactive dashboards an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmenSaber&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌍 Most Used Languages
 
 <p align="center">
