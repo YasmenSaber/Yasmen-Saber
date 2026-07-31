@@ -9,13 +9,13 @@ Data Analyst • Power BI Developer • Business Intelligence Enthusiast
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YasmenSaber&label=Profile+Views&color=00C853&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YasmenSaber?style=for-the-badge&color=00C853&label=Followers"/>
+<img src="https://komarev.com/ghpvc/?username=YasmenSaber&label=Profile+Views&color=00C853&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/YasmenSaber?style=flat-square&color=00C853&label=Followers"/>
 </p>
 
 ---
 
-## 👩🏻‍💻 About Me
+# 👩🏻‍💻 About Me
 
 ```python
 yasmen = {
@@ -24,15 +24,14 @@ yasmen = {
 
     "education" : [
         "Faculty of Science – Bioinformatics Graduate",
-        "NTI – Data Analysis Graduate"
+        "NTI Data Analysis Graduate"
     ],
 
     "experience" : "Freelance Data Analyst",
 
     "location" : "Egypt 🇪🇬",
 
-    "specialization" :
-        "Business Intelligence & Data Analytics",
+    "specialization" : "Business Intelligence & Data Analytics",
 
     "skills" : [
         "Power BI",
@@ -43,21 +42,19 @@ yasmen = {
         "Power Query"
     ],
 
-    "currently_learning" :
-        "Data Analysis Diploma – Mazen Analytics",
+    "currently_learning" : "Data Analysis Diploma – Mazen Analytics",
 
     "available_for" : [
         "Internships",
         "Entry-Level Roles",
         "Freelance Projects"
     ]
-
 }
 ```
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -75,8 +72,6 @@ yasmen = {
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<br>
-
 <img src="https://img.shields.io/badge/DAX-1B5E20?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Power_Query-0176D3?style=for-the-badge"/>
@@ -85,31 +80,27 @@ yasmen = {
 
 ---
 
-## 🎓 Certifications
+# 🎓 Certifications
 
-| Certification | Status |
-|:---|:---:|
-| 🎓 Faculty of Science – Bioinformatics Graduate | ✅ |
-| 🎓 National Telecommunication Institute (NTI) – Data Analysis Graduate | ✅ |
-| 🎓 Data Analysis Diploma – Mazen Analytics | 🔄 In Progress |
-| 💼 Freelance Data Analyst | ✅ |
+- 🎓 Faculty of Science – Bioinformatics Graduate
+- 🎓 National Telecommunication Institute (NTI) – Data Analysis Graduate
+- 🎓 Data Analysis Diploma – Mazen Analytics *(In Progress)*
+- 💼 Freelance Data Analyst
 
 ---
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00C853&title_color=00C853"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00C853&title_color=00C853"/>
 
-<img height="170"
-src="https://streak-stats.demolab.com?user=YasmenSaber&theme=github-dark&hide_border=true&ring=00C853&fire=00C853"/>
+<img height="170" src="https://streak-stats.demolab.com?user=YasmenSaber&theme=github-dark&hide_border=true&ring=00C853&fire=00C853"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -119,34 +110,36 @@ src="https://streak-stats.demolab.com?user=YasmenSaber&theme=github-dark&hide_bo
 
 ---
 
-## 🎯 Current Goals
+# 🎯 Current Goals
 
-- 📊 Build professional Power BI dashboards.
-- 📈 Master Business Intelligence solutions.
-- 🧠 Strengthen SQL, Python & Power BI skills.
-- 💼 Grow as a Freelance Data Analyst.
-- 🚀 Start a full-time career in Data Analytics.
+- 📊 Build professional Power BI dashboards
+- 🧠 Strengthen SQL & Python skills
+- 📈 Master Business Intelligence solutions
+- 💼 Grow as a Freelance Data Analyst
+- 🚀 Start a full-time career in Data Analytics
 
 ---
 
-## 📫 Connect With Me
+# 📬 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/yasmen-saber">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-&nbsp;
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
 
 <a href="mailto:yasmensaber04@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
-&nbsp;
-
 <a href="https://github.com/YasmenSaber">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
@@ -155,16 +148,8 @@ src="https://streak-stats.demolab.com?user=YasmenSaber&theme=github-dark&hide_bo
 
 <div align="center">
 
-### 💡 Turning Raw Data Into Meaningful Business Insights
+### 💡 *"Turning raw data into meaningful business insights."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00C853&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Always+Learning...;Always+Building...;Let's+Create+Impact+Through+Data!+📊"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1200&color=00C853&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Always+Learning...;Always+Building...;Let's+Create+Impact+Through+Data!+📊"/>
 
 </div>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:1B5E20&height=120&section=footer"/>
-
-</p>
