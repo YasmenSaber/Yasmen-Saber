@@ -10,40 +10,13 @@
 </p>
 
 ---
-
 # 👩🏻‍💻 About Me
 
-```python
-yasmen = {
-    "name": "Yasmen Saber",
-    "role": "Data Analyst",
-    "location": "Egypt 🇪🇬",
+🎓 Bioinformatics Graduate with a strong passion for Data Analytics and Business Intelligence.
 
-    "education": [
-        "Faculty of Science – Bioinformatics Graduate",
-        "NTI – Data Analysis Graduate"
-    ],
+📊 Skilled in **Power BI, Excel, SQL, Python, DAX, and Power Query**, with hands-on experience building interactive dashboards and turning raw data into actionable business insights.
 
-    "specialization": "Business Intelligence & Data Analytics",
-
-    "skills": [
-        "Power BI",
-        "Excel",
-        "SQL",
-        "Python",
-        "DAX",
-        "Power Query"
-    ],
-
-    "currently_learning": "Advanced Data Analysis",
-
-    "open_to": [
-        "Internships",
-        "Entry-Level Roles",
-        "Freelance Projects"
-    ]
-}
-```
+🚀 Currently expanding my portfolio through real-world analytics projects and open to entry-level opportunities.
 
 ---
 
