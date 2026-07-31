@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yasmen Saber</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=1B5E20&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasmen+Saber" />
+</p>
 <h3 align="center">Data Analyst • Business Intelligence Enthusiast • Power BI Developer</h3>
 
 <p align="center">
@@ -75,6 +77,10 @@ yasmen = {
 <p>
 <a href="https://www.linkedin.com/in/yasmen-saber"><img src="https://img.shields.io/badge/LINKEDIN-YASMEN_SABER-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yasmensaber04@gmail.com"><img src="https://img.shields.io/badge/GMAIL-yasmensaber04@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/PHONE-01064434367-1B5E20?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
 ---
