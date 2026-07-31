@@ -63,6 +63,16 @@ yasmen = {
 
 ---
 
+# 🚀 Featured Projects
+
+| Project | Tools | Description | Repository |
+|----------|-------|-------------|------------|
+| 📞 **Salla Call Center Analysis** | Power BI · DAX · Power Query | Interactive 5-page dashboard analyzing Executive Overview, Agent Performance, Call Performance, SLA & Quality, and Business Insights. | [View Project](https://github.com/YasmenSaber/salla-call-center-analysis-powerbi) |
+| 👟 **Adidas Sales Dashboard** | Power BI · DAX · Power Query | Interactive sales dashboard analyzing revenue, operating profit, product performance, regional sales, and sales channels. | [View Project](https://github.com/YasmenSaber/Adidas-Sales-Dashboard) |
+
+---
+
+---
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -81,25 +91,184 @@ yasmen = {
 
 ---
 
+## 💼 What You'll Find In My Repositories
+
+✔️ Interactive **Power BI Dashboards**
+
+✔️ Business Intelligence Reports
+
+✔️ Data Cleaning & Transformation using **Power Query**
+
+✔️ DAX Calculations & KPI Development
+
+✔️ SQL Data Analysis
+
+✔️ Python for Data Analytics
+
+✔️ Excel Dashboards & Business Reporting
+
+✔️ End-to-End Analytics Projects with Documentation
+
+---
+
+## 🎯 Current Focus
+
+- 📊 Building advanced Power BI dashboards
+- 📈 Creating business-driven analytical reports
+- 🧹 Improving Power Query & DAX skills
+- 🗄️ Strengthening SQL for analytical querying
+- 🐍 Applying Python for data analysis & automation
+- 🚀 Expanding my Data Analytics portfolio with real-world projects
+
+---
+
+## 📌 Featured Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-Advanced-1B5E20?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_Query-Advanced-0176D3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+---
 ## 📬 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yasmen-saber"><img height="42" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yasmensaber04@gmail.com"><img height="42" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YasmenSaber"><img height="42" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/yasmen-saber">
+<img height="42" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yasmensaber04@gmail.com">
+<img height="42" src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YasmenSaber">
+<img height="42" src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YasmenSaber?tab=repositories">
+<img height="42" src="https://img.shields.io/badge/My_Projects-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <img height="42" src="https://img.shields.io/badge/PHONE-01064434367-1B5E20?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
 </p>
 
 ---
 
+## 🌟 Featured Dashboard Projects
+
+### 👟 Adidas Sales & Product Performance Dashboard
+**Tools:** Power BI • DAX • Power Query
+
+- 📊 Executive Overview
+- 👟 Product Performance
+- 💰 Revenue & Profitability Analysis
+- 🌍 Regional Sales Analysis
+- 🛒 Sales Channel Performance
+
+🔗 Repository:
+```
+https://github.com/YasmenSaber/adidas-sales-product-performance-dashboard
+```
+
+---
+
+### 📞 Salla Call Center Performance Dashboard
+**Tools:** Power BI • DAX • Power Query
+
+- 📈 Executive Overview
+- 👨‍💼 Agent Performance
+- ☎️ Call Performance
+- 🎯 SLA & Quality
+- 💡 Business Insights
+
+🔗 Repository:
+```
+https://github.com/YasmenSaber/salla-call-center-analysis
+```
+
+---
+
+### 👥 HR Analytics Dashboard
+**Tools:** Power BI • DAX
+
+- Employee Performance
+- Attrition Analysis
+- Gender Analysis
+- Department KPIs
+
+🔗 Repository:
+```
+https://github.com/YasmenSaber/hr-analytics-dashboard
+```
+
+---
+
+### 🏥 Healthcare Analytics Dashboard
+**Tools:** Power BI • DAX
+
+- Patient Analysis
+- Healthcare KPIs
+- Operational Performance
+- Medical Insights
+
+🔗 Repository:
+```
+https://github.com/YasmenSaber/healthcare-analytics-dashboard
+```
+
+---
 <div align="center">
 
-### 💡 *"Turning raw data into meaningful business insights."*
+## 💡 Quote
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1200&color=00C853&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Always+Learning...;Always+Building...;Let's+Create+Impact+Through+Data!+%F0%9F%93%8A"/>
+### *"Turning raw data into meaningful business insights."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Building+Power+BI+Dashboards...;Exploring+Business+Intelligence...;Transforming+Data+Into+Business+Value!+📊;Always+Learning+Always+Growing+🚀"/>
 
 </div>
 
+---
+
+## 📌 Repository Highlights
+
+| Repository | Description |
+|------------|-------------|
+| 📞 **Salla Call Center Analysis** | Interactive Power BI dashboard covering Executive Overview, Agent Performance, Call Performance, SLA & Quality, and Business Insights. |
+| 👟 **Adidas Sales Dashboard** | Interactive Power BI dashboard analyzing sales performance, profitability, products, regions, and sales channels. |
+
+---
+
+## 🤝 Open To
+
+- 💼 Entry-Level Data Analyst Roles
+- 📊 Business Intelligence Opportunities
+- 🌍 Remote & On-site Positions
+- 🚀 Freelance Data Analytics Projects
+- 🤝 Collaboration on Power BI Projects
+
+---
+
+## ⭐ If you like my work
+
+Give a ⭐ to my repositories and feel free to connect with me on LinkedIn.
+
+---
+
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:1B5E20&height=150&section=footer&text=Let's%20turn%20data%20into%20decisions!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:1B5E20&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+
 </p>
