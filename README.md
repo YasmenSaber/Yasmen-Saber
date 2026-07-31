@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yasmen Saber</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasmen+Saber" />
+</p>
 
 <h3 align="center">Data Analyst • Power BI Developer • Business Intelligence Enthusiast</h3>
 
@@ -35,16 +37,18 @@ yasmen = {
 
 ## 🛠 Tech Stack
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+</p>
 
-<br><br>
-
+<p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/DAX-1B5E20?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power_Query-0176D3?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -61,14 +65,18 @@ yasmen = {
 
 ## 📊 GitHub Statistics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00C853&title_color=00C853"/>
-<img height="170" src="https://streak-stats.demolab.com?user=YasmenSaber&theme=github-dark&hide_border=true&ring=00C853&fire=00C853"/>
+<p align="center">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00C853&title_color=00C853"/>
+<img width="400" src="https://streak-stats.demolab.com?user=YasmenSaber&theme=github-dark&hide_border=true&ring=00C853&fire=00C853"/>
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmenSaber&theme=github-dark&hide_border=true&area=true&color=00C853&line=00C853&point=FFFFFF"/>
+<p align="center">
+<img width="810" src="https://github-readme-activity-graph.vercel.app/graph?username=YasmenSaber&theme=github-dark&hide_border=true&area=true&color=00C853&line=00C853&point=FFFFFF"/>
+</p>
 
 ---
 
