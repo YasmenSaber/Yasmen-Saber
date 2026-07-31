@@ -71,12 +71,10 @@ yasmen = {
 ---
 
 # 🎓 Certifications
-
 🎓 Faculty of Science – Bioinformatics Graduate
 🎓 National Telecommunication Institute (NTI) – Data Analysis Graduate
 🎓 Data Analysis Diploma – Mazen Analytics (In Progress)
 💼 Freelance Data Analyst
-
 ---
 # 🛠 Tech Stack
 
@@ -173,13 +171,19 @@ yasmen = {
 
 ---
 
-# 🎯 Goals 2026
+## 🚀 Core Competencies
 
-- 🚀 Build professional Power BI dashboards
-- 📊 Strengthen SQL & Python skills
-- 💼 Start a full-time career as a Data Analyst
-- 🌍 Work on real business projects
-- 📚 Keep learning and improving every day
+✔ Data Cleaning
+
+✔ Data Visualization
+
+✔ Dashboard Development
+
+✔ Business Intelligence
+
+✔ SQL Analysis
+
+✔ Reporting & Insights
 
 ---
 
