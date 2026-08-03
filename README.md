@@ -21,12 +21,11 @@
 💡 Continuously developing my analytics skills through real-world projects and practical problem solving.
 
 ---
-
 # 🚀 Featured Projects
 
 | Project | Tools | Description |
 |----------|-------|-------------|
-| 🛒 **Hyper Market Sales Dashboard** | **Power BI • DAX • Power Query • What-If Analysis** | Interactive dashboard analyzing sales performance, customer behavior, product performance, regional sales, returns, and business insights. Includes an advanced **What-If Analysis** page to simulate price and quantity changes for decision-making. <br><br>🔗 https://github.com/YasmenSaber/Hyper-Market-Sales-Dashboard |
+| 🛒 **Hyper Market Sales Dashboard** | **Power BI • DAX • Power Query • What-If Analysis** | Interactive Power BI dashboard analyzing Hyper Market sales performance, customer behavior, product performance, regional analysis, returns, and executive business insights. Includes an advanced **What-If Analysis** page to simulate price and quantity changes for better business decision-making. <br><br>🔗 https://github.com/YasmenSaber/HyperMarket-sales-dashboard-powerbi |
 | 📞 **Salla Call Center Analysis** | **Power BI • DAX • Power Query** | Interactive 5-page dashboard covering Executive Overview, Agent Performance, Call Performance, SLA & Quality, and Business Insights. <br><br>🔗 https://github.com/YasmenSaber/salla-call-center-analysis-powerbi |
 | 👟 **Adidas Sales Dashboard** | **Power BI • DAX • Power Query** | Interactive dashboard analyzing sales performance, profitability, products, regions, and sales channels. <br><br>🔗 https://github.com/YasmenSaber/Adidas-Sales-Dashboard |
 
